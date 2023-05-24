@@ -41,4 +41,4 @@ pnpm dev
 
 
 
-![preview img](src/assets/fotoParaRedme.png)
+![preview img](assets/fotoParaRedme.png)
