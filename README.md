@@ -24,7 +24,7 @@ Um aplicativo para guardar lembranças em texto, fotos e vídeos, disponível pa
 - [x] Axios
 - [x] NodeJs
 - [x] Prisma
-- [x] Fastif
+- [x] Fastify
 - [x] Zod
 - [x] SQL como DB
 - [x] ReactNative
