@@ -21,6 +21,14 @@ Este é projeto tanto na parte Web quanto no Mobile um app para guarda lembranç
 - [x] NextJs
 - [x] Tailwind CSS
 - [x] TypeScript
+- [x] Axios
+- [x] NodeJs
+- [x] Prisma
+- [x] Fastif
+- [x] Zod
+- [x] SQL como DB
+- [x] ReactNative
+- [x] Expo
 
 
 ## Como utilizar?
