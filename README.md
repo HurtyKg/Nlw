@@ -8,7 +8,7 @@
 
 ## 💻 Projeto
 
-Este é projeto tanto na parte Web quanto no Mobile um app para guarda lembranças, em texto, fotos ou videos. 
+Um aplicativo para guardar lembranças em texto, fotos e vídeos, disponível para web e mobile. 
 
 
 ## Participantes
