@@ -16,7 +16,7 @@ Este é projeto tanto na parte Web quanto no Mobile um app para guarda lembranç
 
 [Enzo Oliveira](https://www.linkedin.com/in/enzo-oliveira-a18344229/)
 
-
+![preview img](web/src/assets/fotoParaRedme.png)
 ## Tecnologias
 - [x] NextJs
 - [x] Tailwind CSS
@@ -49,4 +49,4 @@ pnpm dev
 
 
 
-![preview img](web/src/assets/fotoParaRedme.png)
+
